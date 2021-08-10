@@ -1,3 +1,8 @@
+touch-dnd Customized for EGroupware
+======================================
+- Add delay feature in order to be able to distinguish between click event and drag event
+
+
 # touch-dnd
 
 Advanced touch-compatible Drag'n'Drop library providing Draggable, Droppable and Sortable for Zepto.js and jQuery
